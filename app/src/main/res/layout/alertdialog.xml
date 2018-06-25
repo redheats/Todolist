@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/view_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="view item"/>
+    <Button
+        android:id="@+id/modify_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="modify item"/>
+    <Button
+        android:id="@+id/delete_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="delete item"/>
+
+</LinearLayout>
