@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Link to Video Walkthrough](https://www.dropbox.com/s/p6id0914eo4n88o/2018-06-25-11-52-54.mp4?dl=0)
+[Link to Video Walkthrough](https://www.dropbox.com/s/t1zx1e98ykjjf5s/pelicier%201.mp4?dl=0)
 
 
 
